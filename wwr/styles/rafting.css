@@ -94,6 +94,9 @@ nav a:hover {
 }
 
 .hero article img {
+    /* float: right;
+    width: 125px;
+    height: 100px; */
     width: 150px;
     height: 100px;
     object-fit: cover;
