@@ -1,7 +1,7 @@
 :root {
     --primary-color: #1e3a5f; /*Dark Blue*/
-    --secondary-color: #4ecdc4; /*Teal*/
-    --accent1-color: #ff6b6b;   /*Coral*/
+    --secondary-color: #1e3a5f; /*Dark Blue*/
+    --accent1-color: #1e3a5f;  /*Dark Blue*/
     --accent2-color: #ffe66d; /*Yellow*/
     --heading-font: 'Merriweather', serif; /*Serif font for headings*/
     --body-font: 'Open Sans', sans-serif; /*Sans-serif font for body*/
@@ -292,7 +292,7 @@ footer {
 }
 
 .contact-item h3 {
-    color: var(--secondary-color);
+    color: #1e3a5f;
     margin-bottom: 0.5rem;
     font-size: 1.2rem;
 }
@@ -387,7 +387,7 @@ footer {
 }
 
 .submit-btn {
-    background-color: var(--accent1-color);
+    background-color: #1e3a5f;
     color: white;
     border: none;
     padding: 0.75rem 1.5rem;
@@ -400,7 +400,7 @@ footer {
 }
 
 .submit-btn:hover {
-    background-color: #ff5252;
+    background-color: #1e3a5f;
     transform: translateY(-2px);
 }
 
